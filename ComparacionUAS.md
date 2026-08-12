@@ -200,7 +200,7 @@ El **DJI Mini 4 Pro** ofrece uno de los paquetes más completos de la comparaci�
 
 El **FIMI Mini 3** destaca por su precio de entrada, mientras que el **HOVERAir X1 Pro** utiliza un concepto diferente, centrado en el seguimiento autónomo.
 
-### VEREDICTO
+### MEJOR OPCIÓN
 
 > **El Potensic ATOM 2 presenta el mejor costo–beneficio general dentro de los cinco modelos analizados**, porque combina un precio relativamente bajo con autonomía, portabilidad, cámara y alcance suficientes para competir con modelos considerablemente más costosos.
 
@@ -215,9 +215,3 @@ El **FIMI Mini 3** destaca por su precio de entrada, mientras que el **HOVERAir 
 - **HOVERAir — X1 Pro:** https://www.hoverair.com/products/hoverair-x1-pro
 - **FAA — UAS:** https://www.faa.gov/faq/what-unmanned-aircraft-system-uas
 
-
-### UAS COMERCIALES · 2026
-
-**Análisis técnico · Comparación de marcas · Costo–beneficio**
-
-</div>
