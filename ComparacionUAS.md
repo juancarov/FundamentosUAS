@@ -4,8 +4,6 @@
 
 ### Tipos, características y comparación costo–beneficio
 
-**Investigación comparativa · 2026**
-
 </div>
 
 ---
@@ -169,11 +167,11 @@ El **Potensic ATOM 2** destaca por su equilibrio entre precio y prestaciones:
 
 | Posición | Modelo | Evaluación |
 |:---:|---|:---:|
-| 🥇 **1** | **Potensic ATOM 2** | ⭐⭐⭐⭐⭐ Mejor costo–beneficio |
-| 🥈 **2** | **FIMI Mini 3** | ⭐⭐⭐⭐⭐ Mejor precio |
-| 🥉 **3** | **DJI Mini 4 Pro** | ⭐⭐⭐⭐ Mejor equilibrio premium |
-| **4** | **HOVERAir X1 Pro** | ⭐⭐⭐⭐ Mejor para seguimiento autónomo |
-| **5** | **Autel EVO Lite+** | ⭐⭐⭐⭐ Mejor autonomía/cámara |
+| **1** | **Potensic ATOM 2** | ★★★★★ Mejor costo–beneficio |
+| **2** | **FIMI Mini 3** | ★★★★★ Mejor precio |
+| **3** | **DJI Mini 4 Pro** | ★★★★ Mejor equilibrio premium |
+| **4** | **HOVERAir X1 Pro** | ★★★★ Mejor para seguimiento autónomo |
+| **5** | **Autel EVO Lite+** | ★★★★ Mejor autonomía/cámara |
 
 > El ranking representa el resultado de **esta metodología específica**. Cambiar los pesos puede cambiar el ganador.
 
@@ -202,7 +200,7 @@ El **DJI Mini 4 Pro** ofrece uno de los paquetes más completos de la comparaci�
 
 El **FIMI Mini 3** destaca por su precio de entrada, mientras que el **HOVERAir X1 Pro** utiliza un concepto diferente, centrado en el seguimiento autónomo.
 
-### 🏆 VEREDICTO
+### VEREDICTO
 
 > **El Potensic ATOM 2 presenta el mejor costo–beneficio general dentro de los cinco modelos analizados**, porque combina un precio relativamente bajo con autonomía, portabilidad, cámara y alcance suficientes para competir con modelos considerablemente más costosos.
 
@@ -217,15 +215,6 @@ El **FIMI Mini 3** destaca por su precio de entrada, mientras que el **HOVERAir 
 - **HOVERAir — X1 Pro:** https://www.hoverair.com/products/hoverair-x1-pro
 - **FAA — UAS:** https://www.faa.gov/faq/what-unmanned-aircraft-system-uas
 
-### Nota metodológica
-
-Los precios son **precios de referencia** y pueden variar según país, impuestos, promociones, accesorios y configuración.
-
-Las especificaciones corresponden a valores declarados por fabricantes. Cuando una característica depende de las condiciones de vuelo, se presenta como valor máximo declarado.
-
-**No se incluyen RPM o potencia de los motores cuando el fabricante no proporciona públicamente un dato verificable**, evitando utilizar cifras de terceros sin metodología clara.
-
-<div align="center">
 
 ### UAS COMERCIALES · 2026
 
