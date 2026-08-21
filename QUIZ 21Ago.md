@@ -93,8 +93,6 @@ Para un piloto -tanto de aviones comerciales como de drones (RPAS)- revisar los 
 
 ## Espacios aereos: Clases A, B, C, D, E
 
-Nota de auditoria: la clasificacion A-B-C-D-E-G es del estandar OACI y se usa como marco general en la mayoria de paises, incluida Colombia. Los limites exactos de altitud y las reglas de cada clase pueden variar segun el AIP (Publicacion de Informacion Aeronautica) de cada pais, asi que las cifras de abajo son valores tipicos/de referencia, no un dato legal exacto para citar en un examen sin verificar el RAC vigente.
-
 ### Clase A (Alpha)
 
 - Que es: espacio aereo exclusivo para vuelos a gran altura (vuelos comerciales de pasajeros). Como referencia general, suele comenzar alrededor de los 18.000 pies (FL180) hasta aproximadamente 60.000 pies.
